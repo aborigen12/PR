@@ -37,7 +37,7 @@
       <TileMatrixSetLink>
         <TileMatrixSet>z9to15</TileMatrixSet>
       </TileMatrixSetLink>
-      <ResourceURL format="image/jpeg" resourceType="tile" template="http://localhost/tileserver/Cundinamarca/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
+      <ResourceURL format="image/jpeg" resourceType="tile" template="https://aborigen12.github.io/Cundinamarca/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
     </Layer>
     <TileMatrixSet>
       <ows:Identifier>z9to15</ows:Identifier>
